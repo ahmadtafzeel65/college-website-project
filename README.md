@@ -1,6 +1,8 @@
 # College Website (MERN) — SRS Implementation
 
 This repository implements the **Software Requirements Specification (SRS)** for a College Website with Admin CRUD operations.
+<img width="193" height="240" alt="Capture1" src="https://github.com/user-attachments/assets/ecca69ef-4da8-4e57-b01c-4cf3a3b66384" />
+
 
 ## Tech Stack
 - **Frontend**: React (Vite), React Router, Axios

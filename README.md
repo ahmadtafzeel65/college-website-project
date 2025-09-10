@@ -34,7 +34,6 @@ npm run dev
 
 - Frontend dev server: http://localhost:5173
 - Backend API: http://localhost:5000
-- Default admin (auto-created): `admin@college.com` / `admin123`
 
 ## Features (per SRS)
 

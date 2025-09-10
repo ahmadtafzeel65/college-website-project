@@ -1,8 +1,6 @@
 # College Website (MERN) — SRS Implementation
 
 This repository implements the **Software Requirements Specification (SRS)** for a College Website with Admin CRUD operations.
-<img width="193" height="240" alt="Capture1" src="https://github.com/user-attachments/assets/ecca69ef-4da8-4e57-b01c-4cf3a3b66384" />
-
 
 ## Tech Stack
 - **Frontend**: React (Vite), React Router, Axios
@@ -54,16 +52,6 @@ npm run dev
 - Clean, simple, responsive UI baseline; customize as needed.
 - Password stored securely with bcrypt hash.
 - Ready for GitHub deployment; add a live deployment if desired.
-
-## Project Demonstration
-Record a screen video showing:
-- Landing page (About/Departments/Courses/Contact).
-- Admin login.
-- CRUD for Departments & Courses.
-- (Optional) Viewing contact submissions.
-Upload to Google Drive and share a view-only link as per SRS.
-
----
 
 ### Notes
 - For production, configure CORS, environment variables, and secure JWT secret.

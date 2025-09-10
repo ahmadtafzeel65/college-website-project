@@ -1,6 +1,8 @@
 # College Website (MERN) — SRS Implementation
 
 This repository implements the **Software Requirements Specification (SRS)** for a College Website with Admin CRUD operations.
+
+
 <img width="387" height="344" alt="img2" src="https://github.com/user-attachments/assets/51ca9bf6-bc66-4bd8-acaa-69dfe9ae0ac6" />
 <img width="308" height="277" alt="login" src="https://github.com/user-attachments/assets/fdce3734-7397-4e43-a730-705ba3820f94" />
 <img width="385" height="347" alt="dashboard" src="https://github.com/user-attachments/assets/3cfc5863-f88e-4ab1-ac15-5ee1f07ea80a" />
